@@ -1,2 +1,2 @@
 New File 1
-
+Edited in the feature_b.
