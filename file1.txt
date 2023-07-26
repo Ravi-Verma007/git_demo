@@ -1,3 +1,0 @@
-Changes to see how stash works.
-Now we will see changes.
-
